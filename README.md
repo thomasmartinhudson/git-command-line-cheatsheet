@@ -10,6 +10,8 @@
 
 Switch branch: `git checkout <branch-name>`
 
+Create local branch `git checkout -b <branch-name>`
+
 Delete local branch: `git branch -d <branch-name>`
 
 ## Tags
