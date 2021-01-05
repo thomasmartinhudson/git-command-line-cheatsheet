@@ -10,6 +10,8 @@
 
 Switch branch: `git checkout <branch-name>`
 
+Delete local branch: `git branch -d <branch-name>`
+
 ## Tags
 
 Delete Tag locally: `git tag -d <tag-id>`
