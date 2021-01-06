@@ -20,6 +20,16 @@ Delete Tag locally: `git tag -d <tag-id>`
 
 Delete Tag on origin: `git push origin :<tag-id>`
 
+## Update Local Files
+
+Fetch remote branches: `git fetch <remote> <branch>`
+
+Identify changed files: `git diff --name-only <remote>`
+
+Identify changes in file:  `git diff <remote> <file-path>`
+
+Merge in changes: `git merge`
+
 ## Undo Changes
 
 Remove added files in staging area: `git clean -fd`
