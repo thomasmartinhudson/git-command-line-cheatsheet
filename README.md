@@ -3,6 +3,7 @@
 ## Contents
 
 1. [Modifying Local Branch](#modifying-local-branch)
+1. [Update Local Files](#update-local-files)
 1. [Tags](#tags)
 1. [Undo Changes](#undo-changes)
 
